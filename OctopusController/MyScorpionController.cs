@@ -19,7 +19,7 @@ namespace OctopusController
         //LEGS
         Transform[] legTargets;
         Transform[] legFutureBases;
-        MyTentacleController[] _legs = new MyTentacleController[6];
+        MyTentacleController[] _legs = new MyTentacleController[6]; 
 
         
         #region public

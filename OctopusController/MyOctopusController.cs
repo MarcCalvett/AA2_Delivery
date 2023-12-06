@@ -12,7 +12,7 @@ namespace OctopusController
     public class MyOctopusController 
     {
         
-        MyTentacleController[] _tentacles =new  MyTentacleController[4];
+        MyTentacleController[] _tentacles =new  MyTentacleController[4]; 
 
         Transform _currentRegion;
         Transform _target;

@@ -31,7 +31,7 @@ namespace OctopusController
 
             switch (tentacleMode){
                 case TentacleMode.LEG:
-                    //TODO: in _endEffectorsphere you keep a reference to the base of the leg
+                    //TODO: in _endEffectorsphere you keep a reference to the base of the leg 
                     break;
                 case TentacleMode.TAIL:
                     //TODO: in _endEffectorsphere you keep a reference to the red sphere 
